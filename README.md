@@ -1,2 +1,2 @@
 # practice3
-my first git repo
+My first git repo.
